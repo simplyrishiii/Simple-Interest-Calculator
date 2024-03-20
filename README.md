@@ -18,14 +18,14 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Contributing
 
-We welcome contributions from the community! Before contributing, please read our [Contribution Guidelines](CONTRIBUTING.md) and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+We welcome contributions from the community! Before contributing, please read our [Contribution Guidelines](CONTRIBUTION.md) and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Issues
 
-If you encounter any bugs or issues, please report them on our [GitHub Issues](https://github.com/your-username/simple-interest-calculator/issues) page.
+If you encounter any bugs or issues, please report them on our [GitHub Issues](https://github.com/simplyrishiii/Simple-Interest-Calculator/issues) page.
 
 ## Contact
 
-For any questions or inquiries, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact us at [your-email@example.com](mailto:rishisen979@gmail.com).
 
 Thank you for using the Simple Interest Calculator!
