@@ -18,7 +18,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Contributing
 
-We welcome contributions from the community! Before contributing, please read our [Contribution Guidelines](CONTRIBUTION.md) and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+We welcome contributions from the community! Before contributing, please read our [Contribution Guidelines](CONTRIBUTING.md) and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Issues
 
